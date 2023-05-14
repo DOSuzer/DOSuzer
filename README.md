@@ -6,7 +6,7 @@
 В моих проектах использованы технологии:  
 Python, Django, DRF, PostgreSQL, Docker, Yandex.Cloud, HTML, Nginx, Unittest, Linux
 - 💬 Telegram - t.me/dosuzer
-
+- 📫 Почта    - egor.pop@gmail
 
 
 
