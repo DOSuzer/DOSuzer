@@ -1,8 +1,18 @@
-### Hi there 👋
+<h1 align="center">Здравствуй путник! Меня зовут Егор 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+Я выпускник курсов Яндекс.Практикум "Python backend разработчик".
+
+В моих проектах использованы технологии:  
+Python, Django, DRF, PostgreSQL, Docker, Yandex.Cloud, HTML, Nginx, Unittest, Linux
+- 💬 Telegram - t.me/dosuzer
+
+
+
 
 <!--
 **DOSuzer/DOSuzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Здравствуй путник! 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
