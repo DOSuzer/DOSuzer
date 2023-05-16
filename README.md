@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуй путник! Меня зовут Егор 
+<h1 align="center">Здравствуй путник, меня зовут Егор 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 Я выпускник курсов Яндекс.Практикум "Python backend разработчик".
