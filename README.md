@@ -1,7 +1,7 @@
 <h1 align="center">Здравствуй путник, меня зовут Егор 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Я выпускник курсов Яндекс.Практикум "Python backend разработчик".
+Я Python разработчик. 
 
 В моих проектах использованы технологии:  
 Python, Django, DRF, PostgreSQL, Docker, Yandex.Cloud, HTML, Nginx, Unittest, Linux
